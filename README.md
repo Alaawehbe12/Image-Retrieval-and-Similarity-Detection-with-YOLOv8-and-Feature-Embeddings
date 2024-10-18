@@ -1,0 +1,2 @@
+# Image-Retrieval-and-Similarity-Detection-with-YOLOv8-and-Feature-Embeddings
+This project implements a Content-Based Image Retrieval (CBIR) system using YOLOv8 for feature extraction and cosine similarity for matching. Given a query image, it retrieves the most similar images from a database, visualizes them with bounding box predictions, and ranks them by similarity score, offering an efficient image search solution.
